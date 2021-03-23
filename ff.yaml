@@ -76,6 +76,7 @@ proxy-groups:
     name: ✈️Telegram
     type: select
     proxies:
+      - 🔰国外流量
       - '1'
       - '2'
       - '3'
