@@ -13,80 +13,58 @@ log-level: silent
 external-controller: '0.0.0.0:9090'
 secret: ''
 proxies:
-  - {"name":"Free-日本JP 01 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-jp-01.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-日本JP 02 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-jp-02.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-日本JP 03 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-jp-03.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-日本JP 04 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-jp-04.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-香港HK 01 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-hk-01.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-香港HK 02 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-hk-02.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-香港HK 03 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-hk-03.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"Free-香港HK 04 AGA加速 1倍率","type":"vmess","server":"v2ray-free-aga-hk-04.jcss.pw","port":443,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-俄罗斯RU 01 伯力 CDN加速 Netflix 2倍率","type":"vmess","server":"v2ray-v1-gcore-ru-01.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-俄罗斯RU 01 适合电信 联通 Netflix 2倍率","type":"vmess","server":"global-sakura-ru-a-01.jcss.pw","port":2111,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-俄罗斯RU 02 伯力 CDN加速 Netflix 2倍率","type":"vmess","server":"v2ray-v1-gcore-ru-02.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-俄罗斯RU 02 适合电信 联通 Netflix 2倍率","type":"vmess","server":"global-sakura-ru-a-01.jcss.pw","port":2112,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 01 HINET Netflix 2倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":101,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 02 HINET Netflix 2倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":102,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 03 HINET Netflix 2倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":103,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 04 HINET Netflix 2倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":104,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 05 HINET Netflix 2倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":105,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 06 HINET Netflix 1倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":106,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-台湾TW 07 HINET Netflix 1倍率","type":"vmess","server":"global-sakura-tw-a-01.jcss.pw","port":107,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-四川德阳 01 CMCC 回国 2倍率","type":"vmess","server":"117.174.59.45","port":545,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-新加坡SG 01 AWS 1倍率","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":118,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-新加坡SG 02 AWS 1倍率","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":119,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-新加坡SG 03 AWS 1倍率","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":120,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-新加坡SG 04 AWS 1倍率","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":121,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-新加坡SG 05 AWS 1倍率","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":122,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 01 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2101,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 02 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2102,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 03 Sakura Netflix 隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2103,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 04 Sakura Netflix 隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2104,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 05 Sakura Netflix 隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2105,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 06 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2106,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 07 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2107,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 08 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2108,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 09 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2109,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 10 Sakura Netflix  隧道 1倍率","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2110,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 11 IDCF CDN加速 Netflix 2倍率","type":"vmess","server":"global-sakura-jp-c-02.jcss.pw","port":123,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-日本JP 12 IDCF CDN加速 Netflix 2倍率","type":"vmess","server":"global-sakura-jp-c-02.jcss.pw","port":124,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-美国UA 01 CDN加速 NTT 2倍率","type":"vmess","server":"v2ray-v1-ntt-us-01.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-美国UA 02 CDN加速 NTT 2倍率","type":"vmess","server":"v2ray-v1-ntt-us-02.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-美国UA 03 CDN加速 NTT 2倍率","type":"vmess","server":"v2ray-v1-ntt-us-03.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-美国UA 04 CDN加速 NTT 2倍率","type":"vmess","server":"v2ray-v1-ntt-us-04.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
-  - {"name":"V1-香港HKT 01 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":108,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 02 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":109,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 03 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":110,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 04 PCCW CDN加速  Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":111,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 05 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":112,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 06 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":113,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 07 PCCW CDN加速  Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":114,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 08 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":115,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 09 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":116,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
-  - {"name":"V1-香港HKT 10 PCCW CDN加速 Netflix 1倍率","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":117,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"1","type":"vmess","server":"v2ray-v1-gcore-ru-01.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
+  - {"name":"2","type":"vmess","server":"v2ray-v1-gcore-ru-02.jcss.pw","port":80,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":2,"cipher":"auto","udp":true,"network":"ws","ws-path":"/yingyun"}
+  - {"name":"3","type":"vmess","server":"global-sakura-ru-a-01.jcss.pw","port":2112,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"4","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":118,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"5","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":119,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"6","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":120,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"7","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":121,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"8","type":"vmess","server":"global-sakura-sg-a-01.jcss.pw","port":122,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"9","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2101,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"10","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2102,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"11","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2103,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"12","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2104,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"13","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2105,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"14","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2107,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"15","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2108,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"16","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2109,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"17","type":"vmess","server":"global-sakura-jp-a-01.jcss.pw","port":2110,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"18","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":108,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"19","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":109,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"20","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":110,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"21","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":111,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"22","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":112,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
+  - {"name":"23","type":"vmess","server":"global-sakura-hk-a-01.jcss.pw","port":113,"uuid":"e11dc6c1-b2a3-387c-9ab0-2f6785112ca6","alterId":1,"cipher":"auto","udp":true,"network":"ws","ws-path":"/vvv"}
 
 proxy-groups:
   -
     name: 🔰国外流量
     type: select
     proxies:
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
       - 🚀直接连接
   -
     name: ⚓️其他流量
@@ -98,112 +76,146 @@ proxy-groups:
     name: ✈️Telegram
     type: select
     proxies:
-      - 🔰国外流量
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - 🚀直接连接
   -
     name: 🎬Youtube
     type: select
     proxies:
       - 🔰国外流量
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - 🚀直接连接
   -
     name: 🎬Netflix
     type: select
     proxies:
       - 🔰国外流量
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - 🚀直接连接
   -
     name: 🎬哔哩哔哩
     type: select
     proxies:
       - 🚀直接连接
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - 🚀直接连接
   -
     name: 🎬国外媒体
     type: select
     proxies:
       - 🔰国外流量
-      - 'F.JP.樱花⇠集群⇠华南.BGP:VC35134'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34137'
-      - 'H.HK.⇠集群⇠华南.BGP:VC34237'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32135'
-      - 'H.TW.Hinet⇠链路⇠华南.BGP:VC32136'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31135'
-      - 'H.TW.Hinet⇠集群⇠华南.BGP:VC31136'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33135'
-      - 'H.TW.龍抬頭⇠集群⇠华南.BGP:VC33136'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34138'
-      - 'I.HK.⇠集群⇠华南.BGP:VC34238'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32137'
-      - 'I.TW.Hinet⇠链路⇠华南.BGP:VC32138'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31137'
-      - 'I.TW.Hinet⇠集群⇠华南.BGP:VC31138'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33137'
-      - 'I.TW.龍抬頭⇠集群⇠华南.BGP:VC33138'
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '16'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '21'
+      - '22'
+      - '23'
+      - 🚀直接连接
   -
     name: 🍎苹果服务
     type: select
