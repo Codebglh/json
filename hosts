@@ -51,5 +51,8 @@
 104.18.18.18    free-ss.site
 104.21.94.132	j01.best
 172.67.136.80	j01.best
+104.16.248.1    fanqiangdang.com
+#IP地址第一位填104，第二位填16~31，第三位和第四位1~254之间随便填一个，总有一个能用的
+104.20.200.201 fanqiangdang.com
 # Update time: 2021-04-01 5:24
 # Star me GitHub url: https://github.com/Codebglh/json
