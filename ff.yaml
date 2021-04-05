@@ -984,6 +984,7 @@ rules:
   - DOMAIN-SUFFIX,bilibili.com,🎬哔哩哔哩
   - DOMAIN-SUFFIX,bilibili.tv,🎬哔哩哔哩
   - DOMAIN-SUFFIX,bilivideo.com,🎬哔哩哔哩
+  - DOMAIN-SUFFIX,v.qq.com,🎬腾讯视频
 
   - DOMAIN-SUFFIX,local,DIRECT
   - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
