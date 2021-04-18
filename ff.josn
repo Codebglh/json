@@ -1,0 +1,45 @@
+{
+  "bookSourceComment": "",
+  "bookSourceGroup": "biquge",
+  "bookSourceName": "biquge",
+  "bookSourceType": 0,
+  "bookSourceUrl": "https://www.biquge.info",
+  "bookUrlPattern": "",
+  "customOrder": 0,
+  "enabled": true,
+  "enabledExplore": true,
+  "exploreUrl": "",
+  "lastUpdateTime": 0,
+  "loginUrl": "",
+  "ruleBookInfo": {
+    "author": "//*[@property=\"og:novel:author\"]/@content",
+    "coverUrl": "//*[@property=\"og:image\"]/@content",
+    "intro": "//*[@property=\"og:description\"]/@content",
+    "kind": "//*[@property=\"og:novel:category\"]/@content",
+    "lastChapter": "//*[@id=\"newlist\"]//li[1]/a/text()",
+    "name": "//*[@property=\"og:novel:book_name\"]/@content",
+    "tocUrl": "//a[text()=\"阅读\"]/@href"
+  },
+  "ruleContent": {
+    "content": "//*[@id=\"content\"]",
+    "nextContentUrl": ""
+  },
+  "ruleExplore": {},
+  "ruleSearch": {
+    "author": "//dd[2]/text()",
+    "bookList": "//*[@id=\"sitebox\"]/dl",
+    "bookUrl": "//dt/a/@href",
+    "coverUrl": "//img/@src",
+    "kind": "//dd[2]/span/text()",
+    "lastChapter": "",
+    "name": "//h3/a/text()"
+  },
+  "ruleToc": {
+    "chapterList": ":href=\"(/read[^\"]*html)\">([^<]*)",
+    "chapterName": "$2",
+    "chapterUrl": "$1",
+    "nextTocUrl": "//*[@id=\"pagelist\"]/*[position()>1]/@value"
+  },
+  "searchUrl": "/search.html,{\n  \"method\": \"POST\",\n  \"body\": \"searchkey={{key}}\"\n}",
+  "weight": 0
+}
