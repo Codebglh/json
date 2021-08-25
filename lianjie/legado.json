@@ -1,0 +1,119 @@
+[
+{
+    "bookSourceUrl": "http://194.36.37.77:8087",
+    "bookSourceType": "0",
+    "bookSourceName": "H1",
+    "bookSourceGroup": "自己制作",
+    "bookSourceComment": "作者bgcode",
+    "loginUrl": "",
+    "bookUrlPattern": "",
+    "header": "",
+    "searchUrl": "/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName={{key}}",
+    "exploreUrl": "                    催眠                 ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=催眠\n     强奸    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=强奸\n     乱伦    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=乱伦\n调教::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=调教\n激情::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=激情\n出轨::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=出轨\n变态::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=变态\n洗脑::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=洗脑\n玄幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=玄幻\n仙侠::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=仙侠\n热门::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=热门\n科幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=科幻\n都市::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=都市\n奴隶::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=奴隶\n淫娃::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=淫娃\n系统::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=系统",
+    "enabled": true,
+    "enabledExplore": true,
+    "weight": 0,
+    "customOrder": 1,
+    "lastUpdateTime": 1629873903928,
+    "ruleSearch": {
+        "bookList": "//*[@id=\"booklist\"]/div",
+        "name": "//div/div/p/span/text()",
+        "author": "//div/p[3]/font/text()",
+        "kind": "//div/p[3]/text()",
+        "lastChapter": "//div/p[4]/font/text()",
+        "intro": "//div/p[2]/text()",
+        "coverUrl": "//div/img/attribute::src",
+        "bookUrl": "//div/attribute::onclick##w.*?/|\\'\\)"
+    },
+    "ruleExplore": {},
+    "ruleBookInfo": {
+        "coverUrl": "//*[@id=\"book\"]/div[1]/p[1]/img/attribute::src"
+    },
+    "ruleToc": {
+        "chapterList": "class.list-left@a",
+        "chapterName": "//div[1]/div[1]/text()\",",
+        "chapterUrl": "//@href"
+    },
+    "ruleContent": {
+        "content": "class.novel_content@html"
+    }
+},
+{
+    "bookSourceUrl": "http://www.grtop.xyz",
+    "bookSourceType": "0",
+    "bookSourceName": "H2",
+    "bookSourceGroup": "自己制作",
+    "bookSourceComment": "作者bgcode",
+    "loginUrl": "",
+    "bookUrlPattern": "",
+    "header": "",
+    "searchUrl": "/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName={{key}}",
+    "exploreUrl": "                    催眠                 ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=催眠\n     强奸    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=强奸\n     乱伦    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=乱伦\n调教::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=调教\n激情::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=激情\n出轨::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=出轨\n变态::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=变态\n洗脑::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=洗脑\n玄幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=玄幻\n仙侠::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=仙侠\n热门::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=热门\n科幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=科幻\n都市::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=都市\n奴隶::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=奴隶\n淫娃::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=淫娃\n系统::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=系统",
+    "enabled": true,
+    "enabledExplore": true,
+    "weight": 0,
+    "customOrder": 2,
+    "lastUpdateTime": 1629874097002,
+    "ruleSearch": {
+        "bookList": "//*[@id=\"booklist\"]/div",
+        "name": "//div/div/p/span/text()",
+        "author": "//div/p[3]/font/text()",
+        "kind": "//div/p[3]/text()",
+        "lastChapter": "//div/p[4]/font/text()",
+        "intro": "//div/p[2]/text()",
+        "coverUrl": "//div/img/attribute::src",
+        "bookUrl": "//div/attribute::onclick##w.*?/|\\'\\)"
+    },
+    "ruleExplore": {},
+    "ruleBookInfo": {
+        "coverUrl": "//*[@id=\"book\"]/div[1]/p[1]/img/attribute::src"
+    },
+    "ruleToc": {
+        "chapterList": "class.list-left@a",
+        "chapterName": "//div[1]/div[1]/text()\",",
+        "chapterUrl": "//@href"
+    },
+    "ruleContent": {
+        "content": "class.novel_content@html"
+    }
+},
+{
+    "bookSourceUrl": "http://www.grzxc.xyz",
+    "bookSourceType": "0",
+    "bookSourceName": "H",
+    "bookSourceGroup": "自己制作",
+    "bookSourceComment": "作者bgcode",
+    "loginUrl": "",
+    "bookUrlPattern": "",
+    "header": "",
+    "searchUrl": "/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName={{key}}",
+    "exploreUrl": "                    催眠                 ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=催眠\n     强奸    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=强奸\n     乱伦    ::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=乱伦\n调教::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=调教\n激情::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=激情\n出轨::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=出轨\n变态::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=变态\n洗脑::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=洗脑\n玄幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=玄幻\n仙侠::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=仙侠\n热门::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=热门\n科幻::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=科幻\n都市::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=都市\n奴隶::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=奴隶\n淫娃::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=淫娃\n系统::/?page.currentPage={{page}}&queryFilm.orderType=3&queryFilm.subjectName=&filmName=系统",
+    "enabled": true,
+    "enabledExplore": true,
+    "weight": 0,
+    "customOrder": -1,
+    "lastUpdateTime": 1629874193433,
+    "ruleSearch": {
+        "bookList": "//*[@id=\"booklist\"]/div",
+        "name": "//div/div/p/span/text()",
+        "author": "//div/p[3]/font/text()",
+        "kind": "//div/p[3]/text()",
+        "lastChapter": "//div/p[4]/font/text()",
+        "intro": "//div/p[2]/text()",
+        "coverUrl": "//div/img/attribute::src",
+        "bookUrl": "//div/attribute::onclick##w.*?/|\\'\\)"
+    },
+    "ruleExplore": {},
+    "ruleBookInfo": {
+        "coverUrl": "//*[@id=\"book\"]/div[1]/p[1]/img/attribute::src"
+    },
+    "ruleToc": {
+        "chapterList": "class.list-left@a",
+        "chapterName": "//div[1]/div[1]/text()\",",
+        "chapterUrl": "//@href"
+    },
+    "ruleContent": {
+        "content": "class.novel_content@html"
+    }
+}
+]
