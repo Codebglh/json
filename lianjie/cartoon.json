@@ -936,8 +936,8 @@
         "weight": 688
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "webtoon📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "webtoon",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://us-m.webtoons.com",
         "enable": false,
@@ -977,8 +977,8 @@
         "weight": 684
     },
     {
-        "bookSourceGroup": "🅰【json】; 💯【稳定】",
-        "bookSourceName": "追追漫画₁🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "追追漫画₁",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://api.ilikemanga.com",
         "enable": false,
@@ -1059,7 +1059,7 @@
         "weight": 670
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "崩坏3漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://comic.bh3.com",
@@ -1100,7 +1100,7 @@
         "weight": 664
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "爱米推漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.imitui.com",
@@ -1141,8 +1141,8 @@
         "weight": 662
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "正规漫画💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "正规漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://mh-zg.7qh.net",
         "enable": false,
@@ -1182,8 +1182,8 @@
         "weight": 636
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "滴滴漫画⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "滴滴漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.nfydd.com",
         "enable": false,
@@ -1223,8 +1223,8 @@
         "weight": 633
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "漫漫看漫画网📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫漫看漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.manmankan.cc/api",
         "enable": false,
@@ -1265,7 +1265,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "美女漫画📱",
+        "bookSourceName": "美女漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://mm.shazi8.com",
         "enable": false,
@@ -1305,8 +1305,8 @@
         "weight": 630
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "扑飞漫画📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "扑飞漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.pufei8.com",
         "enable": false,
@@ -1346,8 +1346,8 @@
         "weight": 627
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家v3🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家v3",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://v3api.dmzj.com",
         "enable": false,
@@ -1418,8 +1418,8 @@
         "weight": 616
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "滴滴漫画📱⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "滴滴漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.nfydd.com",
         "enable": false,
@@ -1490,8 +1490,8 @@
         "weight": 612
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "爱飒漫画📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "爱飒漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.isamanhua.com",
         "enable": false,
@@ -1527,8 +1527,8 @@
         "weight": 606
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "黑白漫话📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "黑白漫话",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.heibaimanhua.com",
         "enable": false,
@@ -1564,8 +1564,8 @@
         "weight": 605
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "汗汗漫画📱📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "汗汗漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://ssoonn.com",
         "enable": false,
@@ -1602,7 +1602,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "漫漫看漫画网📱",
+        "bookSourceName": "漫漫看漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.manmankan.cc",
         "enable": false,
@@ -1637,8 +1637,8 @@
         "weight": 601
     },
     {
-        "bookSourceGroup": "⛅【晴天】; 💯【稳定】",
-        "bookSourceName": "360漫画📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "360漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.100fanwo.com",
         "enable": false,
@@ -1674,8 +1674,8 @@
         "weight": 599
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "土豪漫画网📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "土豪漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.tuhao456.com",
         "enable": false,
@@ -1710,8 +1710,8 @@
         "weight": 593
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "522漫画⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "522漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.love127.com",
         "enable": false,
@@ -1746,8 +1746,8 @@
         "weight": 591
     },
     {
-        "bookSourceGroup": "💯【稳定】; 💡【提示】",
-        "bookSourceName": "1359漫画📱💡",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "1359漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.1359mh.com",
         "enable": false,
@@ -1783,8 +1783,8 @@
         "weight": 588
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "爱漫画📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "爱漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://mh.2manhua.com",
         "enable": false,
@@ -1820,7 +1820,7 @@
         "weight": 587
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "漫画淘",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.manhuatao.com",
@@ -1856,7 +1856,7 @@
         "weight": 584
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "神漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.taomanhua.com",
@@ -1893,7 +1893,7 @@
         "weight": 582
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "汤圆漫画™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://manhua.itangyuan.com",
@@ -1929,8 +1929,8 @@
         "weight": 580
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "腐漫画 📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "腐漫画 ",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.fmhuaaa.net",
         "enable": false,
@@ -1967,7 +1967,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "木马漫画📱",
+        "bookSourceName": "木马漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://muamh.com",
         "enable": false,
@@ -2038,8 +2038,8 @@
         "weight": 573
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "奇漫屋📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "奇漫屋",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.6manhua6.com",
         "enable": false,
@@ -2074,8 +2074,8 @@
         "weight": 571
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "爱优漫📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "爱优漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.kaimanhua.com",
         "enable": false,
@@ -2110,8 +2110,8 @@
         "weight": 570
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "漫画1234💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫画1234",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.mh1234.com",
         "enable": false,
@@ -2147,7 +2147,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "57漫画📱",
+        "bookSourceName": "57漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.wuqimh.com",
         "enable": false,
@@ -2182,8 +2182,8 @@
         "weight": 560
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家v3₁🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家v3₁",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.v3api.dmzj.com",
         "enable": false,
@@ -2219,7 +2219,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "狂人漫画📱",
+        "bookSourceName": "狂人漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.krmanhua.com",
         "enable": false,
@@ -2254,8 +2254,8 @@
         "weight": 558
     },
     {
-        "bookSourceGroup": "💯【稳定】; 🅰【json】",
-        "bookSourceName": "漫画台™🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "漫画台™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://getcomicinfo-globalapi.yyhao.com",
         "enable": false,
@@ -2290,8 +2290,8 @@
         "weight": 551
     },
     {
-        "bookSourceGroup": "💯【稳定】; 🅰【json】",
-        "bookSourceName": "知音漫客🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "知音漫客",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://api.zymk.cn",
         "enable": false,
@@ -2326,8 +2326,8 @@
         "weight": 550
     },
     {
-        "bookSourceGroup": "💯【稳定】; 🅰【json】",
-        "bookSourceName": "爱优漫🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "爱优漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://getconfig-globalapi.yyhao.com:443",
         "enable": false,
@@ -2362,8 +2362,8 @@
         "weight": 549
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家s₂🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家s₂",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://sacg.dmzj.com",
         "enable": false,
@@ -2399,8 +2399,8 @@
         "weight": 547
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家v2🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家v2",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://v2.api.dmzj.com",
         "enable": false,
@@ -2437,7 +2437,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "动漫之家M₂📱",
+        "bookSourceName": "动漫之家M₂",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.dmzj.com/info",
         "enable": false,
@@ -2581,8 +2581,8 @@
         "weight": 538
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "吹雪漫画💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "吹雪漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.chuixue.net",
         "enable": false,
@@ -2618,8 +2618,8 @@
         "weight": 537
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "豆腐🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "豆腐",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://imgold2.doufu.la",
         "enable": false,
@@ -2654,8 +2654,8 @@
         "weight": 535
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "动漫戏说📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫戏说",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://comic.acgn.cc",
         "enable": false,
@@ -2691,8 +2691,8 @@
         "weight": 534
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "733动漫⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "733动漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.733.so",
         "enable": false,
@@ -2728,7 +2728,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "看漫画啦📱",
+        "bookSourceName": "看漫画啦",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://kanmanhuala.com",
         "enable": false,
@@ -2763,7 +2763,7 @@
         "weight": 526
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "古风漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.gufengmh8.com",
@@ -2800,7 +2800,7 @@
         "weight": 517
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "土豆漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.xm124.com",
@@ -2837,8 +2837,8 @@
         "weight": 515
     },
     {
-        "bookSourceGroup": "💯【稳定】; ⛅【晴天】; 💡【提示】",
-        "bookSourceName": "X18漫画⛅",
+        "bookSourceGroup": "; ; ",
+        "bookSourceName": "X18漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.x18mh.com",
         "enable": false,
@@ -2874,8 +2874,8 @@
         "weight": 514
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "动漫啦💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫啦",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.dongman.la",
         "enable": false,
@@ -2911,8 +2911,8 @@
         "weight": 492
     },
     {
-        "bookSourceGroup": "⛅【晴天】; 💯【稳定】",
-        "bookSourceName": "秀十八漫画📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "秀十八漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://mip.xiushiba.com",
         "enable": false,
@@ -2983,8 +2983,8 @@
         "weight": 488
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "Webtoon💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "Webtoon",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://us.webtoons.com",
         "enable": false,
@@ -3056,8 +3056,8 @@
         "weight": 471
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "动漫在线📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫在线",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.dmzx.com",
         "enable": false,
@@ -3093,8 +3093,8 @@
         "weight": 467
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "178漫画⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "178漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://178mh.com",
         "enable": false,
@@ -3129,8 +3129,8 @@
         "weight": 466
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "我要去漫画⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "我要去漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.517manhua.com",
         "enable": false,
@@ -3165,8 +3165,8 @@
         "weight": 465
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "98漫画™⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "98漫画™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.98mh.com",
         "enable": false,
@@ -3201,8 +3201,8 @@
         "weight": 463
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "漫画吧⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫画吧",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.manhuaba.cc",
         "enable": false,
@@ -3237,8 +3237,8 @@
         "weight": 462
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "8comic💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "8comic",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://comicvip.com:88",
         "enable": false,
@@ -3310,7 +3310,7 @@
         "weight": 457
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
+        "bookSourceGroup": "",
         "bookSourceName": "漫画天堂",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.manhuatt.com",
@@ -3347,8 +3347,8 @@
         "weight": 451
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "呆哥哥™⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "呆哥哥™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.daigege.com",
         "enable": false,
@@ -3384,7 +3384,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "星辰漫画📱",
+        "bookSourceName": "星辰漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.xcmh.cc",
         "enable": false,
@@ -3456,7 +3456,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "动漫之家M₃📱",
+        "bookSourceName": "动漫之家M₃",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.dmzj.com/search",
         "enable": false,
@@ -3491,8 +3491,8 @@
         "weight": 443
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家s₃🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家s₃",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://sacg.dmzj.com/mh",
         "enable": false,
@@ -3528,8 +3528,8 @@
         "weight": 442
     },
     {
-        "bookSourceGroup": "⛅【晴天】; 💡【提示】",
-        "bookSourceName": "爱漫画网📱⛅💡",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "爱漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.33am.cn",
         "enable": false,
@@ -3601,8 +3601,8 @@
         "weight": 440
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "96漫画™📱⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "96漫画™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m2.96mh.com",
         "enable": false,
@@ -3711,7 +3711,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "六漫画📱",
+        "bookSourceName": "六漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.6mh7.com",
         "enable": false,
@@ -3747,8 +3747,8 @@
         "weight": 418
     },
     {
-        "bookSourceGroup": "⛅【晴天】; 💡【提示】",
-        "bookSourceName": "乙女漫画📱⛅💡",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "乙女漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.yinvmh.com",
         "enable": false,
@@ -3820,8 +3820,8 @@
         "weight": 413
     },
     {
-        "bookSourceGroup": "⛅【晴天】; 💯【稳定】",
-        "bookSourceName": "受漫画📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "受漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.shoumanhua.com",
         "enable": false,
@@ -3893,8 +3893,8 @@
         "weight": 403
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "漫本💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫本",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.manben.com",
         "enable": false,
@@ -3930,8 +3930,8 @@
         "weight": 402
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "九九漫画📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "九九漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://99.hhxxee.com",
         "enable": false,
@@ -3967,8 +3967,8 @@
         "weight": 401
     },
     {
-        "bookSourceGroup": "💡【提示】; 🇬🇧【英漫】",
-        "bookSourceName": "isekaiscan™💡🇬🇧",
+        "bookSourceGroup": "; 🇬🇧【英漫】",
+        "bookSourceName": "isekaiscan™🇬🇧",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://isekaiscan.com",
         "enable": false,
@@ -4004,8 +4004,8 @@
         "weight": 400
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "咚漫📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "咚漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.dongmanmanhua.cn",
         "enable": false,
@@ -4040,8 +4040,8 @@
         "weight": 399
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "塔多漫画📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "塔多漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.taduo.net",
         "enable": false,
@@ -4112,8 +4112,8 @@
         "weight": 385
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "鬼萝莉漫画💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "鬼萝莉漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.gllmh.com",
         "enable": false,
@@ -4185,8 +4185,8 @@
         "weight": 371
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "虎虎漫画📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "虎虎漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.huhumh.com",
         "enable": false,
@@ -4221,8 +4221,8 @@
         "weight": 367
     },
     {
-        "bookSourceGroup": "📶【运营商】",
-        "bookSourceName": "一拳漫画📶",
+        "bookSourceGroup": "",
+        "bookSourceName": "一拳漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.1manhua.net",
         "enable": false,
@@ -4365,8 +4365,8 @@
         "weight": 353
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "漫阅媒💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫阅媒",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://comicberry.ga",
         "enable": false,
@@ -4403,7 +4403,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "非常爱漫📱",
+        "bookSourceName": "非常爱漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.veryim.com",
         "enable": false,
@@ -4438,8 +4438,8 @@
         "weight": 348
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家s₁🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家s₁",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://s.acg.dmzj.com",
         "enable": false,
@@ -4475,8 +4475,8 @@
         "weight": 341
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家v1🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家v1",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://api.dmzj.com",
         "enable": false,
@@ -4511,8 +4511,8 @@
         "weight": 340
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "动漫之家v3₂™🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "动漫之家v3₂™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://v3api.dmzj.com",
         "enable": false,
@@ -4548,7 +4548,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "动漫之家M₁📱",
+        "bookSourceName": "动漫之家M₁",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.dmzj.com",
         "enable": false,
@@ -4619,8 +4619,8 @@
         "weight": 334
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "卡推漫画📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "卡推漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.700mh.com",
         "enable": false,
@@ -4656,8 +4656,8 @@
         "weight": 332
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "HiComic📱💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "HiComic",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.hicomic.net/h5",
         "enable": false,
@@ -4693,7 +4693,7 @@
         "weight": 327
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "漫客栈",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.mkzhan.com",
@@ -4730,7 +4730,7 @@
         "weight": 316
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "GMANHUA",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.gmanhua.com",
@@ -4766,7 +4766,7 @@
         "weight": 312
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "倾城漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.mhba123.com",
@@ -4803,7 +4803,7 @@
         "weight": 311
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "动漫之家w",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.dmzj.com",
@@ -4839,7 +4839,7 @@
         "weight": 304
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "动漫之家m",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://manhua.dmzj.com",
@@ -4875,8 +4875,8 @@
         "weight": 303
     },
     {
-        "bookSourceGroup": "💯【稳定】; 🅰【json】",
-        "bookSourceName": "漫画台🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "漫画台",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://getconfig-globalapi.yyhao.com",
         "enable": false,
@@ -4911,8 +4911,8 @@
         "weight": 287
     },
     {
-        "bookSourceGroup": "💯【稳定】; 🅰【json】",
-        "bookSourceName": "一本漫画🅰",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "一本漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://app.yibenmanhua.com",
         "enable": false,
@@ -4947,8 +4947,8 @@
         "weight": 286
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "漫画台📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫画台",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.manhuatai.com",
         "enable": false,
@@ -4983,8 +4983,8 @@
         "weight": 279
     },
     {
-        "bookSourceGroup": "💯【稳定】; ⛅【晴天】",
-        "bookSourceName": "兔兔漫画网📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "兔兔漫画网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.tutumanhua.com",
         "enable": false,
@@ -5019,8 +5019,8 @@
         "weight": 275
     },
     {
-        "bookSourceGroup": "💯【稳定】; ⛅【晴天】",
-        "bookSourceName": "一漫网📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "一漫网",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.bx117.com",
         "enable": false,
@@ -5055,8 +5055,8 @@
         "weight": 269
     },
     {
-        "bookSourceGroup": "💯【稳定】; 💡【提示】",
-        "bookSourceName": "知音漫客📱",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "知音漫客",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.zymk.cn",
         "enable": false,
@@ -5092,8 +5092,8 @@
         "weight": 268
     },
     {
-        "bookSourceGroup": "💯【稳定】",
-        "bookSourceName": "看漫画📱",
+        "bookSourceGroup": "",
+        "bookSourceName": "看漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.kanman.com",
         "enable": false,
@@ -5128,8 +5128,8 @@
         "weight": 267
     },
     {
-        "bookSourceGroup": "💯【稳定】; ⛅【晴天】",
-        "bookSourceName": "漫画160📱⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "漫画160",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.mh160.co",
         "enable": false,
@@ -5165,8 +5165,8 @@
         "weight": 266
     },
     {
-        "bookSourceGroup": "💯【稳定】; 💡【提示】",
-        "bookSourceName": "土豪漫画📱",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "土豪漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.toho123.com",
         "enable": false,
@@ -5238,8 +5238,8 @@
         "weight": 259
     },
     {
-        "bookSourceGroup": "💡【提示】",
-        "bookSourceName": "360漫画💡",
+        "bookSourceGroup": "",
+        "bookSourceName": "360漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.100fanwo.com",
         "enable": false,
@@ -5275,7 +5275,7 @@
         "weight": 255
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "六漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.6mh7.com",
@@ -5312,7 +5312,7 @@
         "weight": 202
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "六漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.sixmh6.com",
@@ -5391,7 +5391,7 @@
         "weight": 24
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "芝士豪八动漫",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://manhua.zsh8.com/page",
@@ -5428,7 +5428,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "大古漫画📱",
+        "bookSourceName": "大古漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.dagumanhua.com",
         "enable": false,
@@ -5464,7 +5464,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "999漫画📱",
+        "bookSourceName": "999漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.999comics.com",
         "enable": false,
@@ -5499,7 +5499,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "魔趣阁📱",
+        "bookSourceName": "魔趣阁",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.moquge.com",
         "enable": false,
@@ -5571,7 +5571,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "漫画羊📱",
+        "bookSourceName": "漫画羊",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.manhuayang.com",
         "enable": false,
@@ -5679,7 +5679,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "憨憨的漫画📱",
+        "bookSourceName": "憨憨的漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://m.hanhande.net",
         "enable": false,
@@ -5750,8 +5750,8 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "⛅【晴天】",
-        "bookSourceName": "七七漫画™⛅",
+        "bookSourceGroup": "",
+        "bookSourceName": "七七漫画™",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://www.77manhua.net",
         "enable": false,
@@ -5786,8 +5786,8 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "🅰【json】",
-        "bookSourceName": "漫客栈🅰",
+        "bookSourceGroup": "",
+        "bookSourceName": "漫客栈",
         "bookSourceType": "漫画",
         "bookSourceUrl": "http://comic.mkzhan.com",
         "enable": false,
@@ -5823,8 +5823,8 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯【稳定】; ⛅【晴天】",
-        "bookSourceName": "来漫画⛅",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "来漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.laimanhua.com",
         "enable": false,
@@ -5860,7 +5860,7 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯【稳定】",
+        "bookSourceGroup": "",
         "bookSourceName": "可米酷",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://comicool.cn",
@@ -5897,8 +5897,8 @@
         "weight": 0
     },
     {
-        "bookSourceGroup": "💯【稳定】; 💡【提示】",
-        "bookSourceName": "土豪漫画💡",
+        "bookSourceGroup": "; ",
+        "bookSourceName": "土豪漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://www.toho123.com",
         "enable": false,
@@ -5935,7 +5935,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "最漫画📱",
+        "bookSourceName": "最漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.zuimh.com",
         "enable": false,
@@ -5972,7 +5972,7 @@
     },
     {
         "bookSourceGroup": "",
-        "bookSourceName": "前未漫画📱",
+        "bookSourceName": "前未漫画",
         "bookSourceType": "漫画",
         "bookSourceUrl": "https://m.qianwee.com",
         "enable": false,
